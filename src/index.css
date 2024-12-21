@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'Founders Grotesk';
+  src: url('../public/FoundersGrotesk-Semibold.ttf') format('truetype');
+}

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ochi/static/css/main.97a27f00.css",
+    "main.js": "/Ochi/static/js/main.f3da1193.js",
+    "static/js/488.ff7c534e.chunk.js": "/Ochi/static/js/488.ff7c534e.chunk.js",
+    "static/media/FoundersGrotesk-Semibold.ttf": "/Ochi/static/media/FoundersGrotesk-Semibold.5438be1bbcbdb7f422b4.ttf",
+    "index.html": "/Ochi/index.html",
+    "main.97a27f00.css.map": "/Ochi/static/css/main.97a27f00.css.map",
+    "main.f3da1193.js.map": "/Ochi/static/js/main.f3da1193.js.map",
+    "488.ff7c534e.chunk.js.map": "/Ochi/static/js/488.ff7c534e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97a27f00.css",
+    "static/js/main.f3da1193.js"
+  ]
+}

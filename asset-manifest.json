@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19c48cae.css",
+    "main.js": "/static/js/main.0f87463f.js",
+    "static/js/488.ff7c534e.chunk.js": "/static/js/488.ff7c534e.chunk.js",
+    "static/media/FoundersGrotesk-Semibold.ttf": "/static/media/FoundersGrotesk-Semibold.5438be1bbcbdb7f422b4.ttf",
+    "index.html": "/index.html",
+    "main.19c48cae.css.map": "/static/css/main.19c48cae.css.map",
+    "main.0f87463f.js.map": "/static/js/main.0f87463f.js.map",
+    "488.ff7c534e.chunk.js.map": "/static/js/488.ff7c534e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19c48cae.css",
+    "static/js/main.0f87463f.js"
+  ]
+}
